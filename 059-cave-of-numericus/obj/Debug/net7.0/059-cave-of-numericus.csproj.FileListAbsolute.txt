@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\bin\Debug\net7.0\059-cave-of-numericus.exe
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\bin\Debug\net7.0\059-cave-of-numericus.deps.json
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\bin\Debug\net7.0\059-cave-of-numericus.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\bin\Debug\net7.0\059-cave-of-numericus.dll
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\bin\Debug\net7.0\059-cave-of-numericus.pdb
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.dll
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\refint\059-cave-of-numericus.dll
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.pdb
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\059-cave-of-numericus.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\059-cave-of-numericus\obj\Debug\net7.0\ref\059-cave-of-numericus.dll
